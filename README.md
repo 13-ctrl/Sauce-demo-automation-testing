@@ -35,7 +35,6 @@ Maven 3.6.0 or higher
 Chrome/Firefox browsers installed
 Installation
 Clone the repository:
-git clone https://github.com/DoaaTawfik0/Automation-Testing-Project.git
 Navigate to project directory:
 cd Automation-Testing-Project
 Install dependencies:
